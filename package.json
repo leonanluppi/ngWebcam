@@ -1,0 +1,35 @@
+{
+  "name": "angular-webcam",
+  "version": "1.0.0",
+  "description": "A webcam directive made with Angular.js. A new approach how to use WebRTC APIvideo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonanluppi/ngWebcam.git"
+  },
+  "keywords": [
+    "webcam",
+    "directive",
+    "angularjs",
+    "angular.js",
+    "webcam",
+    "directive",
+    "webcam",
+    "javascript",
+    "webrtc",
+    "javscript",
+    "video",
+    "stream",
+    "stream",
+    "video"
+  ],
+  "author": "Leonan Luppi Pinotti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonanluppi/ngWebcam/issues"
+  },
+  "homepage": "https://github.com/leonanluppi/ngWebcam#readme"
+}
